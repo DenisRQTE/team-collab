@@ -1,2 +1,2 @@
 # team-collab
-snake game 
+snake game
